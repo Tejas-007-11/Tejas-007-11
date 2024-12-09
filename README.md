@@ -1,6 +1,6 @@
 <!-- Add your banner image below -->
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Banner" />
+  <img src="https://github.com/Tejas-007-11/Tejas-007-11/raw/refs/heads/main/github.webp" alt="Banner" />
 </p>
 
 <h1 align="center">Tejas Krishna A S</h1>

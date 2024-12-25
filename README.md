@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Tejas Krishna A S</h1>
-<h3 align="center">Machine Learning Engineer | AI Enthusiast | Full-Stack Developer</h3>
+<h3 align="center">Machine Learning Engineer | AI Enthusiast | ML Developer</h3>
 
 ---
 

@@ -20,9 +20,9 @@ I am a highly motivated **AI/ML Engineer** from India with a strong foundation i
 
 ### Core Skills
 
-- **Programming**: Python, C++, JavaScript  
+- **Programming**: Python, C, JavaScript  
 - **AI/ML Frameworks**: TensorFlow, PyTorch, Scikit-learn  
-- **Web Technologies**: HTML, CSS, React.js, Node.js  
+- **Web Technologies**: HTML, CSS, Node.js  
 - **Data Analytics**: NumPy, Pandas, Tableau, Power BI  
 - **Tools & Platforms**: GitHub, Docker, Google Cloud, AWS  
 
@@ -43,7 +43,8 @@ I am a highly motivated **AI/ML Engineer** from India with a strong foundation i
 
 ### Achievements
  
-- Participated in the **AI for Impact Hackathon** to address social challenges through AI solutions.  
+- Participated in the **AI for Impact Hackathon** to address social challenges through AI solutions.
+- Runner-up NASA APPS Hackathon 2024.  
   
 
 ---

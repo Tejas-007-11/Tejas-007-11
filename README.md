@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/Tejas-007-11/Tejas-007-11/raw/refs/heads/main/github Banner.png" alt="Banner" />
+  <img src="https://github.com/Tejas-007-11/Tejas-007-11/raw/refs/heads/main/github-banner.gif" alt="GitHub Banner GIF" />
 </p>
 
 <h1 align="center">Tejas Krishna A S</h1>

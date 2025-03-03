@@ -27,6 +27,11 @@ I am a highly motivated **AI/ML Engineer** from India with a strong foundation i
 
 ---
 
+### Projects  
+
+- **Stroke Detection**: Developed a machine learning model for early stroke detection, improving diagnostic accuracy.  
+- **FOSS Hackathon**: Participated in an open-source hackathon, contributing to AI and ML-driven projects.  
+- **Empathy AI**: Built an AI-powered tool focused on understanding and responding to human emotions with natural language processing.
 
 
 

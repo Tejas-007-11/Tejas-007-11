@@ -27,10 +27,7 @@ I am a highly motivated **AI/ML Engineer** from India with a strong foundation i
 
 ---
 
-### Projects
-  
-- **Bird Migration Visualization**: Created a dynamic visualization of bird migration patterns, inspired by GitHub Globe.  
-- **NASA App**: An interactive platform featuring AI tools, games, quizzes, and data visualizations for exploring space and exoplanets.
+
 
 
 
